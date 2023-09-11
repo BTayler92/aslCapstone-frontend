@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(0, 0, 60);
+    color: white;
+}
+
+.intro,
+.makeRequest,
+.requestCheck {
+    text-align: center;
+}
+
+footer {
+    color: white;
+    text-align: end;
+}
+
+footer {
+    margin-top: 50px;
+    border-top: 1px solid white;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.textBoxWidth {
+    width: 185px;
+}
+
+.inputBox {
+    margin-bottom: 20px;
+}
+
+.lastInputBox {
+    margin-bottom: 5px;
+}
+
+.imgRow {
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+col {
+    padding-left: none;
+    padding-right: none;
+}
+
+.description {
+    font-size: smaller;
+    font-weight: 250;
+    text-align: center;
+}
+
+.img-fluid {
+    border-radius: 20%;
+}
+
+.imgAbc {
+    border-width: medium;
+    border-color: rgb(135, 135, 202);
+    border-style: double;
+}
+
+.imgNum {
+    border-width: medium;
+    border-color: rgb(136, 136, 255);
+    border-style: double;
+}
+
+.imgCap {
+    text-align: center;
+}
